@@ -2,14 +2,11 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
+- title: Relevant Coursework
+  url: /coursework/
 
-- title: CV
-  url: /cv/
+- title: Clincal Experience
+  url: /clincal/
 
-- title: Blog
-  url: /blog/
-
-- title: Workshops
-  url: /workshops/
+- title: Non-Clinical Experience
+  url: /nonclinical/
