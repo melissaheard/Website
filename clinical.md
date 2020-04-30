@@ -12,16 +12,16 @@ layout: resume
 
 ## Volunteer Clinical Experience
 
-Organization | Role | Years | Total Hours 
+**Organization | Role | Years | Total Hours**
 --|--|--|--
-Marquis | Resident Activities volunteer | 2004-2008 | X
+Marquis | Resident Activities volunteer | 2004-08 | X
 Intracranial Hypertension Awareness at OHSU | Research volunteer |  2016-2018 | X
 Emergency Medical Services | Blues Festival volunteer | 2019 | X
 
 
 ## Shadowing
 
-Physician | Location & Specialty | Total Hours
+**Physician | Location & Specialty | Total Hours**
 --|--|--
 Dr. Rebecca Cantone, MD | OHSU Family Medicine | 11 
 Dr. Jeremy Lynn, MD | Providence Emergency Medicine Physician/Director | 13 
