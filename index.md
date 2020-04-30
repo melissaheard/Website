@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a post-bacc student, working as a medical scribe, working on pre-medical coursework and applying to medical school.
 
 ## Current Interests and Projects:
 
