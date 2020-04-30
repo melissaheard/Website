@@ -11,6 +11,7 @@ layout: resume
 - Medical Office Assistant: Dr. Jennifer Layosa, OD, LLC, 2015
 
 ## Volunteer Clinical Experience
+
 Organization | Role | Years | Total Hours 
 --|--|--|--
 Marquis | Resident Activities volunteer | 2004-2008 | X
@@ -19,6 +20,7 @@ Emergency Medical Services | Blues Festival volunteer | 2019 | X
 
 
 ## Shadowing
+
 Physician | Location & Specialty | Total Hours
 --|--|--
 Dr. Rebecca Cantone, MD | OHSU Family Medicine | 11 
